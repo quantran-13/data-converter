@@ -485,3 +485,5 @@ $RECYCLE.BIN/
 
 images
 labels
+data.csv
+annotations.json
